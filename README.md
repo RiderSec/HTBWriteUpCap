@@ -1,5 +1,8 @@
 # Cap
 Easy level machine.
+![Screenshot at 2024-10-20 12-51-40](https://github.com/user-attachments/assets/5c30b96f-b603-4b4c-ae22-c171ab0fcab2)
+
+
 
 ## Vulnerabilities in this machine
 · IDOR
